@@ -1,0 +1,8 @@
+{
+  "YoutubeMp4Path": ".\\Videos\\Youtube\\Videos",
+  "YoutubeMp3Path": ".\\Videos\\Youtube\\Mp3",
+  "InstagramPath": ".\\Videos\\Instagram\\Reels",
+  "FacebookPath": null,
+  "TwitterPath": null,
+  "TiktokPath": null
+}

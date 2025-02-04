@@ -1,0 +1,17 @@
+C:\Users\Emre\Desktop\publish\DownloadManager.exe
+C:\Users\Emre\Desktop\publish\DownloadManager.dll
+C:\Users\Emre\Desktop\publish\DownloadManager.deps.json
+C:\Users\Emre\Desktop\publish\DownloadManager.runtimeconfig.json
+C:\Users\Emre\Desktop\publish\DownloadManager.pdb
+C:\Users\Emre\Desktop\publish\AngleSharp.dll
+C:\Users\Emre\Desktop\publish\CliWrap.dll
+C:\Users\Emre\Desktop\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emre\Desktop\publish\Newtonsoft.Json.dll
+C:\Users\Emre\Desktop\publish\Spectre.Console.dll
+C:\Users\Emre\Desktop\publish\System.CodeDom.dll
+C:\Users\Emre\Desktop\publish\System.IO.Pipelines.dll
+C:\Users\Emre\Desktop\publish\System.Management.dll
+C:\Users\Emre\Desktop\publish\System.Text.Encodings.Web.dll
+C:\Users\Emre\Desktop\publish\System.Text.Json.dll
+C:\Users\Emre\Desktop\publish\YoutubeExplode.dll
+C:\Users\Emre\Desktop\publish\YoutubeExplode.Converter.dll

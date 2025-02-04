@@ -1,0 +1,11 @@
+C:\Users\Emre\Desktop\Projects\c# projects\console\DownloadManagerOnSocaliMedia\DownloadManager\bin\Release\net6.0\publish\DownloadManager.exe
+C:\Users\Emre\Desktop\Projects\c# projects\console\DownloadManagerOnSocaliMedia\DownloadManager\bin\Release\net6.0\publish\DownloadManager.dll
+C:\Users\Emre\Desktop\Projects\c# projects\console\DownloadManagerOnSocaliMedia\DownloadManager\bin\Release\net6.0\publish\DownloadManager.deps.json
+C:\Users\Emre\Desktop\Projects\c# projects\console\DownloadManagerOnSocaliMedia\DownloadManager\bin\Release\net6.0\publish\DownloadManager.runtimeconfig.json
+C:\Users\Emre\Desktop\Projects\c# projects\console\DownloadManagerOnSocaliMedia\DownloadManager\bin\Release\net6.0\publish\DownloadManager.pdb
+C:\Users\Emre\Desktop\Projects\c# projects\console\DownloadManagerOnSocaliMedia\DownloadManager\bin\Release\net6.0\publish\AngleSharp.dll
+C:\Users\Emre\Desktop\Projects\c# projects\console\DownloadManagerOnSocaliMedia\DownloadManager\bin\Release\net6.0\publish\CliWrap.dll
+C:\Users\Emre\Desktop\Projects\c# projects\console\DownloadManagerOnSocaliMedia\DownloadManager\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\Emre\Desktop\Projects\c# projects\console\DownloadManagerOnSocaliMedia\DownloadManager\bin\Release\net6.0\publish\Spectre.Console.dll
+C:\Users\Emre\Desktop\Projects\c# projects\console\DownloadManagerOnSocaliMedia\DownloadManager\bin\Release\net6.0\publish\YoutubeExplode.dll
+C:\Users\Emre\Desktop\Projects\c# projects\console\DownloadManagerOnSocaliMedia\DownloadManager\bin\Release\net6.0\publish\YoutubeExplode.Converter.dll

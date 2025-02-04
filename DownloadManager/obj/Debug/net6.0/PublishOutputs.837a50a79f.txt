@@ -1,0 +1,11 @@
+C:\Users\Emre\Desktop\DownloadManager.exe
+C:\Users\Emre\Desktop\DownloadManager.dll
+C:\Users\Emre\Desktop\DownloadManager.deps.json
+C:\Users\Emre\Desktop\DownloadManager.runtimeconfig.json
+C:\Users\Emre\Desktop\DownloadManager.pdb
+C:\Users\Emre\Desktop\AngleSharp.dll
+C:\Users\Emre\Desktop\CliWrap.dll
+C:\Users\Emre\Desktop\Newtonsoft.Json.dll
+C:\Users\Emre\Desktop\Spectre.Console.dll
+C:\Users\Emre\Desktop\YoutubeExplode.dll
+C:\Users\Emre\Desktop\YoutubeExplode.Converter.dll
