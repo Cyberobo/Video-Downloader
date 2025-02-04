@@ -1,4 +1,4 @@
-# 📌 Discord Chat & Music Bot
+# 📌 Video-Downloader
 - You can install my app on this [link](https://drive.google.com/uc?export=download&id=1zylnMAZIX9g2vXTJ6fdZLQ5PR1Ol9DLh)
 
 ## 🛠 Technologies Used
