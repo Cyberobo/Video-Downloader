@@ -9,9 +9,8 @@ Technologies, libraries, and tools used in this project:
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/19af1777-c39d-4a51-af5a-22040bb5f694" width="600">
-<img src="https://github.com/user-attachments/assets/01251919-99a6-48e0-8b5d-a071792e783c" width="600">
-<img src="https://github.com/user-attachments/assets/a24db1d0-3c10-4f65-b104-197b5f75609a" width="600">
+<img src="https://github.com/user-attachments/assets/10ae8bdb-3ae5-40c6-8c56-1f7836c83d2a" width="800">
+<img src="https://github.com/user-attachments/assets/b860679c-6f31-4f10-ba1c-68693d170eaf" width="800">
 
 ## 📄 License
 
