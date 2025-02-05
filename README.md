@@ -1,5 +1,5 @@
 # 📌 Video Downloader
-- You can download **Youtube videos and playlists** in .mp3 or .mp4 format with different downloadable sections on my app.  
+- You can download **Youtube videos and playlists** in .Mp3 or .Mp4 format with different downloadable sections on my app.  
 - You can install my app on this [link](https://drive.google.com/uc?export=download&id=1zylnMAZIX9g2vXTJ6fdZLQ5PR1Ol9DLh)
 
 ## 🛠 Technologies Used
