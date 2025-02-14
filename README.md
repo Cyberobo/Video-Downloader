@@ -14,7 +14,7 @@ Technologies, libraries, and tools used in this project:
 
 ## 📄 License
 
-This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Video-Downloader/blob/main/License.txt)
+This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Video-Downloader/blob/master/License.txt)
 
 ---
 
